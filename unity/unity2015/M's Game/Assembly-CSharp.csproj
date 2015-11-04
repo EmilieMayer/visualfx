@@ -50,6 +50,7 @@
      <Compile Include="Assets\Scripts\CharacterWalk.cs" />
      <Compile Include="Assets\Scripts\CoinScript.cs" />
      <Compile Include="Assets\Scripts\DoorAnimation.cs" />
+     <Compile Include="Assets\Scripts\DoorAnimationNew.cs" />
      <Compile Include="Assets\Scripts\DoorScript.cs" />
      <Compile Include="Assets\Scripts\FallScript.cs" />
      <Compile Include="Assets\Scripts\GitterScriptBlau.cs" />
