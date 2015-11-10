@@ -1,24 +1,79 @@
 fileFormatVersion: 2
-guid: f17d2e11f3d7e6144929b9fe6a9e51b0
-timeCreated: 1446659135
+guid: 6892ec91adfb2f04eb95f5f3ad8e71e1
+timeCreated: 1447178148
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Box011
-    100004: Wand
+    100002: Quader002
+    100004: Quader003
+    100006: Objekt001
+    100008: Objekt002
+    100010: Objekt004
+    100012: Quader001
+    100014: Rahmen
+    100016: Rahmen001
+    100018: Rahmen001_MeshPart0
+    100020: Rahmen001_MeshPart1
+    100022: Rahmen_MeshPart0
+    100024: Rahmen_MeshPart1
+    100026: "T\xFCr"
+    100028: "T\xFCr001"
     400000: //RootNode
-    400002: Box011
-    400004: Wand
+    400002: Quader002
+    400004: Quader003
+    400006: Objekt001
+    400008: Objekt002
+    400010: Objekt004
+    400012: Quader001
+    400014: Rahmen
+    400016: Rahmen001
+    400018: Rahmen001_MeshPart0
+    400020: Rahmen001_MeshPart1
+    400022: Rahmen_MeshPart0
+    400024: Rahmen_MeshPart1
+    400026: "T\xFCr"
+    400028: "T\xFCr001"
     2300000: //RootNode
-    2300002: Box011
-    2300004: Wand
+    2300002: Quader002
+    2300004: Quader003
+    2300006: Objekt001
+    2300008: Objekt002
+    2300010: Objekt004
+    2300012: Quader001
+    2300014: Rahmen001_MeshPart0
+    2300016: Rahmen001_MeshPart1
+    2300018: Rahmen_MeshPart0
+    2300020: Rahmen_MeshPart1
+    2300022: "T\xFCr"
+    2300024: "T\xFCr001"
     3300000: //RootNode
-    3300002: Box011
-    3300004: Wand
-    4300000: Wand
-    4300002: Box011
+    3300002: Quader002
+    3300004: Quader003
+    3300006: Objekt001
+    3300008: Objekt002
+    3300010: Objekt004
+    3300012: Quader001
+    3300014: Rahmen001_MeshPart0
+    3300016: Rahmen001_MeshPart1
+    3300018: Rahmen_MeshPart0
+    3300020: Rahmen_MeshPart1
+    3300022: "T\xFCr"
+    3300024: "T\xFCr001"
+    4300000: Quader002
+    4300002: Quader003
+    4300004: "T\xFCr"
+    4300006: Rahmen_MeshPart0
+    4300008: Rahmen_MeshPart1
+    4300010: "T\xFCr001"
+    4300012: Rahmen001_MeshPart0
+    4300014: Rahmen001_MeshPart1
+    4300016: Quader001
+    4300018: Objekt001
+    4300020: Objekt002
+    4300022: Objekt004
+    7400000: Take 001
     9500000: //RootNode
   materials:
     importMaterials: 1
